@@ -9,9 +9,13 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@apollo/client": "^4.0.13",
+    "graphql": "^16.12.0",
     "next": "16.1.2",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "tailwind-merge": "^3.4.0",
+    "tailwind-variants": "^3.2.2"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
