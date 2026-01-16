@@ -2,7 +2,7 @@
 
 Painel de gestão de apontamentos para obras, permitindo que engenheiros e gestores visualizem e filtrem problemas identificados em canteiros de obra.
 
-**Demo:** [https://construction-issues-12rpud5bz-lrhernandes-projects.vercel.app/](https://construction-issues-12rpud5bz-lrhernandes-projects.vercel.app/)
+**Demo:** [https://construction-issues.vercel.app/](https://construction-issues.vercel.app/)
 
 ## Funcionalidades
 
